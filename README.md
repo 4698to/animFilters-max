@@ -1,4 +1,4 @@
-# animFilters - 3ds max 
+# animFilters - 3ds max
 
 ![](https://gitee.com/to4698/ND_tools/raw/master/animFilters/Screenshot2020-12-26170749.png)
 
@@ -20,8 +20,8 @@
 
 # 安装
 
-*	numpy-1.13.1+mkl-cp27-none-win_amd64.whl 
-*	scipy-0.19.1-cp27-none-win_amd64.whl 
+*	numpy-1.13.1+mkl-cp27-none-win_amd64.whl
+*	scipy-0.19.1-cp27-none-win_amd64.whl
 
 [提取码 023o](https://pan.baidu.com/s/1xPCtkUjgq91eOYuwdc0eYg)
 
@@ -31,14 +31,18 @@
 
 *   3dsMax 2017 - 2020 (2021可以试试，其他版本均不支持)
 
+### 3ds Max 2017-2020 按文章中 3ds Max 2019 来安装  numpy 和 scipy
+
 *   将 animFilters 文件夹复制到 3ds Max 安装目录下的  scripts 文件夹中
+
+![](https://gitee.com/to4698/ND_tools/raw/master/animFilters/{8E2D7873-CBAC-4618-AE97-AC9A9566D5A3}.png)
 
 *   将 菜单栏animFilters_menu_v1.ms 拖拽进 3ds Max 窗口中，即可创建菜单栏
 
 # 下载
 
-链接：https://pan.baidu.com/s/15kQPCkMgQXHoe-u32wrxzA 
-提取码：czw9 
+链接：https://pan.baidu.com/s/15kQPCkMgQXHoe-u32wrxzA
+提取码：czw9
 
 -----
 
